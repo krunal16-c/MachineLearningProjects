@@ -10,8 +10,6 @@ In this repository I will keep my projects that I used for machine learning.<br/
 **FIFTH PROJECT** - **HEART DISEASE** Prediction System <br/>
 
 
-Sure, here's a project description for your machine learning repository with each project in 3 bullet points with 15 words each:
-
 In this repository, I present my machine learning projects:
 
 Rock vs Mine:
